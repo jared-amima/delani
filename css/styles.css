@@ -1,0 +1,177 @@
+#background {
+    background-image: url(h_img.jpg);
+    position: relative;
+    height: 720px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    color: white;
+    padding-top: 140px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about-us {
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+#about {
+    height: 250px;
+}
+ 
+#us {
+    background-image: url(s_image.jpg);
+    height:250px;
+    color: white;
+    height:300px;
+    padding-top: 100px;
+}
+
+ .container-what-we-do{
+     text-align: center;
+     padding-top: 30px;
+     height: 400px;
+ }
+
+ .hidden1 {
+     display: none;
+ }
+
+ .hidden2 {
+     display: none;
+ }
+  .hidden3 {
+      display: none;
+  }
+
+  #portfolio {
+      text-align: center;
+  }
+
+  .col-md-3 img {
+      width: 100%;
+      padding: 2px;
+
+  }
+
+.contact {
+    background-image: url(c_image.jpg);
+    height: 450px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.icon {
+    text-align: center;
+    padding-bottom: 30px;
+}
+  
+.icon img {
+    padding: 10px;
+}
+
+#contact-header {
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+
+#work4-overlay {
+    text-align: center;
+    background-color: #7c9a9e;
+    display: none;
+    height: 241px;
+    padding-top: 115px;
+}
+
+#work3-overlay {
+    text-align: center;
+    background-color: #6b5947;
+    display: none;
+    height: 241px;
+    padding-top: 115px;  
+}
+
+#work2-overlay {
+    text-align: center;
+    background-color: #f0a861;
+    display: none;
+    height: 241px;
+    padding-top: 115px;  
+}
+
+#work1-overlay {
+    text-align: center;
+    background-color: #cdee99;
+    display: none;
+    height: 241px;
+    padding-top: 115px;  
+}
+
+#work5-overlay {
+    text-align: center;
+    background-color: #2e4e39;
+    display: none;
+    height: 241px;
+    padding-top: 115px;  
+}
+
+#work6-overlay {
+    text-align: center;
+    background-color: #e1afeb;
+    display: none;
+    height: 241px;
+    padding-top: 115px;  
+}
+
+#work7-overlay {
+    text-align: center;
+    background-color: #bb4a5d13;
+    display: none;
+    height: 241px;
+    padding-top: 115px;  
+}
+
+#work8-overlay {
+    text-align: center;
+    background-color: #77beb3;
+    display: none;
+    height: 241px;
+    padding-top: 115px;  
+}
+
+body {
+    font-family: "karla";
+}
+
+form-control::-webkit-input-placeholder {
+    color: white;
+  }
+  #MERGE1{
+    width: 30%;
+    margin-left: 18%;
+    margin-right: 30px;
+  }
+  #MERGE0{
+    width: 30%;
+  }
+  #comment{
+    margin-left: 20%;
+    width: 60%;
+  }
+  button{
+    margin-left: 20%;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+  }
+
+  #header-c {
+      text-align: center;
+  }
